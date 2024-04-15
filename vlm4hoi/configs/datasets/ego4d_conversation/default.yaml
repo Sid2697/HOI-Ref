@@ -1,0 +1,8 @@
+datasets:
+  ego4d_conversation:
+    data_type: images
+    build_info:    
+      image_path: /path/to/extrqacted/Ego4D/v2/frames
+      ann_path: hoiqa_dataset/ego4d-train.json
+      question_len: 256
+      answer_len: 256

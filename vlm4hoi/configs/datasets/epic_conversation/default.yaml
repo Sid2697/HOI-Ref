@@ -1,0 +1,8 @@
+datasets:
+  epic_conversation:
+    data_type: images
+    build_info:    
+      image_path: /path/to/extracted/EPIC_Kitchens/frames
+      ann_path: hoiqa_dataset/epic-kitchens-train.json
+      question_len: 256
+      answer_len: 256
