@@ -49,7 +49,7 @@ Then, set the variable *llama_model* in the model config file to the LLM weight 
 
 **3. Prepare the pre-trained VLM4HOI checkpoints**
 
-Download the pre-trained VLM4HOI checkpoints from [here]()
+Download the pre-trained VLM4HOI checkpoints from [this dropbox link](https://www.dropbox.com/scl/fi/o8c8surg8ovqmqpx3xl8j/checkpoint_55.pth?rlkey=u74w6o7wnmrx88jleewqd9qoh&dl=0).
 
 Set the path to the pre-trained checkpoint in the evaluation config file 
 in [eval_configs/vlm4hoi_benchmark_evaluation.yaml](eval_configs/vlm4hoi_benchmark_evaluation.yaml#L9) at Line 9.
@@ -68,7 +68,7 @@ in 16 bit by setting `low_resource` to `False` in [vlm4hoi_benchmark_evaluation.
 
 ### Fine-tuning VLM4HOI
 
-Before going ahead, make sure you have downloaded the HOI-QA dataset and extracted all the required frames. Refer to this [HOI-QA README](dataset/HOIQA_README.md) for downloading and preparing the dataset.
+Before going ahead, make sure you have downloaded the HOI-QA dataset and extracted all the required frames. Refer to this [HOI-QA README](hoiqa_dataset/HOIQA_README.md) for downloading and preparing the dataset.
 
 In the train_configs/vlm4hoi_finetune.yaml, you need to set up the following paths:
 
