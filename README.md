@@ -4,7 +4,7 @@
 
 Siddhant Bansal, Michael Wray, and Dima Damen
 
-<a href=''><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href=''><img src='https://img.shields.io/badge/Gradio-Demo (coming soon)-blue'></a> 
+<a href='https://sid2697.github.io/hoi-ref/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href=''><img src='https://img.shields.io/badge/Gradio-Demo (coming soon)-blue'></a>
 
 <center>
 <figure>
