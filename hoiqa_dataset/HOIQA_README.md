@@ -20,7 +20,7 @@ The dataset consists of the following five files:
 * `epic-visor-test.json`: Test set QA Pairs in HOI-QA from the EPIC-Kitchens dataset 
 
 Download these files form [this dropbox link](https://www.dropbox.com/scl/fo/j0doida6jw4cyptyb20lz/AJllCPfePoXA0uYDjyzju94?rlkey=mn8yw12ebvos890kupxmrvb7t&dl=0) and save them in `hoiqa_dataset` directory (where this README lives).
-Refer to the paper for the details on how the question answer pairs were created.
+Refer to [the paper](https://arxiv.org/abs/2404.09933) for the details on how the question answer pairs were created.
 
 There are these two files to help assist frame extraction:
 * `ego4d-clip-ids.json`: Clip ids of the videos from Ego4D used in the HOI-QA dataset.

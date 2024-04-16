@@ -1,10 +1,10 @@
 # HOI-Ref
 
-<font size='5'>**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**</font>
+<font size='5'><a href="https://arxiv.org/abs/2404.09933">**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**</a></font>
 
 Siddhant Bansal, Michael Wray, and Dima Damen
 
-<a href='https://sid2697.github.io/hoi-ref/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href=''><img src='https://img.shields.io/badge/Gradio-Demo (coming soon)-blue'></a>
+<a href='https://sid2697.github.io/hoi-ref/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2404.09933'><img src='https://img.shields.io/badge/Paper-Arxiv:2404.09933-red'></a> <a href=''><img src='https://img.shields.io/badge/Gradio-Demo (coming soon)-blue'></a>
 
 <center>
 <figure>
@@ -109,13 +109,11 @@ This repository is built upon [MiniGPT-v2](https://github.com/Vision-CAIR/MiniGP
 If you're using VLM4HOI or the HOI-QA dataset in your research or applications, please cite the paper using this BibTeX:
 
 ```bibtex
-@article{hoiref2024,
-author="Bansal, Siddhant
-and Wray, Michael, 
-and Damen, Dima",
-title="HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision",
-booktitle = "Arxiv",
-year="2024"
+@article{bansal2024hoiref,
+  title={HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision},
+  author={Bansal, Siddhant and Wray, Michael, and Damen, Dima},
+  journal={arXiv preprint arXiv:2404.09933},
+  year={2024}
 }
 ```
 
